@@ -1,5 +1,5 @@
 # JavaScript Projects
-This repo contains small javascript projects.
+- This repo contains small javascript projects.
 
 ## Authors
 - [@tarundabhi5](https://github.com/tarundabhi5)
